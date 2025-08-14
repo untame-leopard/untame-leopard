@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @untame-leopard
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any deep learning projects
 
-<!---
-untame-leopard/untame-leopard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm Alex 👋
+I'm passionate about applying fundamental principles to solve real-world engineering challenges, especially in the world of high-performance motorsport.
+
+🎓 About Me
+Student: I'm currently studying theoretical physics at University College London.
+
+Interests: My main interests lie in vehicle dynamics, computational fluid dynamics (CFD), and data-driven analysis.
+
+
+🌱 I'm currently learning:
+Advanced OpenFOAM for CFD simulations.
+
+Python for data analysis and numerical modeling.
+
+Git and GitHub for collaborative software development.
+
+
